@@ -175,6 +175,7 @@ hr {
   .player,
   .blog {
     flex-direction: column;
+    background-color: #562eff;
   }
 }
 
